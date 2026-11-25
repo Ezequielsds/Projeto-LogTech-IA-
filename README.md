@@ -12,7 +12,13 @@ Este trabalho foi desenvolvido no **1º semestre** da disciplina de **Engenharia
 - **Mapa_Dev_-_Documentacao_do_Projeto**: documentação completa do projeto.
 - **fluxograma_site**: diagrama do ecossistema, mostrando o fluxo entre usuário, quiz, processamento, resultado, plataforma de estudos e dicionário de IA.
 
-## Arquivos do repositório
+## Arquivos 
 
 - `mapa-dev.zip`: versão inicial do site.
 - `mapa-dev-completo.zip`: versão completa do site.
+
+ ## Conteúdo
+
+- **PROMPT_Gem**: prompt de instrução do Gem "Professor Trilha IA".
+- **Mapa_Dev_-_Documentacao_do_Projeto**: documentação do projeto.
+- **fluxograma_site**: diagrama do ecossistema da solução.
