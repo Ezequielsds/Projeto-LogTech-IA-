@@ -12,7 +12,7 @@ Este trabalho foi desenvolvido no **1º semestre** da disciplina de **Engenharia
 - **Mapa_Dev_-_Documentacao_do_Projeto**: documentação completa do projeto.
 - **fluxograma_site**: diagrama do ecossistema, mostrando o fluxo entre usuário, quiz, processamento, resultado, plataforma de estudos e dicionário de IA.
 
-## Arquivos 
+## Arquivos do repositório
 
 - `mapa-dev.zip`: versão inicial do site.
 - `mapa-dev-completo.zip`: versão completa do site.
